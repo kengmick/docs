@@ -11,6 +11,7 @@ navigation:
   show: true
 ---
 
+Oct 31, 2018
 Gmail has recently decided to embrace  [DMARC](http://sendgrid.com/blog/dmarc-domain-based-message-authentication-reporting-conformance/) more explicitly, much like Yahoo and AOL. You may soon start seeing bounce messages with the following error:
 
 550 5.7.1 Unauthenticated email from domain.tld is not accepted due to domain's DMARC policy. Please contact administrator of domain.tld domain if this was a legitimate mail. Please visit [https://support.google.com/mail/answer/2451690](https://support.google.com/mail/answer/2451690) to learn about DMARC initiative. 62si14044909itw.103 - gsmtp
